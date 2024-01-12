@@ -1,1 +1,1 @@
-# project-02
+The project name is"Quote Generator"
